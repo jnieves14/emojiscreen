@@ -2594,4 +2594,12 @@ const emojiItems = [
     type: "movie",
     year: 2016
   },
+  {
+    title: "Kiki's Delivery Service ",
+    emojiImgs: "🧙‍🐱🎀🧹",
+    genres: ["Animation", "Adventure", "Drama" ],
+    type: "movie",
+    year: 1989,
+    itemLink: "https://www.imdb.com/title/tt0097814/"
+  },
 ];
